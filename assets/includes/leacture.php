@@ -32,6 +32,7 @@
                     <div class="card-body">
                         <h5 class="card-title"><?php echo $row['name'] ?></h5>
                         <p class="card-text"><?php echo $row['playzansty'] ?></p>
+                        <a href="./question.php" class="btn btn-primary">question</a>
                     </div>
                 </div>
             </div>
